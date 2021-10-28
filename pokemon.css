@@ -1,0 +1,141 @@
+body{
+  background: white;
+  font-family: 'Press Start 2P', cursive;
+  background-image: url(wall.png);
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+}
+button{
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Press Start 2P', cursive;
+  font-size: 13px;
+  background-color: white;
+  color: black;
+  border: none;
+}
+button:hover {background-color: #d4cfcf}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 28px;
+
+}/*row start, column start, row end, grid end*/
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.blink {
+        animation: blink-animation 1s steps(5, start) infinite;
+        -webkit-animation: blink-animation 1s steps(5, start) infinite;
+      }
+      @keyframes blink-animation {
+        to {
+          visibility: hidden;
+        }
+      }
+      @-webkit-keyframes blink-animation {
+        to {
+          visibility: hidden;
+        }
+      }
+.nameinput
+{  position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.box{
+ background: transparent;
+ align-self: center;
+ text-transform: uppercase;
+ position: absolute;
+ top: 25%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+img {
+position: absolute;
+ height: 400px;
+ width: auto;
+ top: 80px;
+left: -175px;
+}
+
+#sprite {
+    animation: MoveUpDown 1s linear infinite;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+
+  @keyframes MoveUpDown {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+.grid-container
+{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: grid;
+    grid-row-gap: 10px;
+    grid-template-columns: 50% 50%;
+    /*grid-template-rows: 50px 50px;*/
+  }
+  .grid-item
+  {
+    text-align: left;
+    font-size: 18px;
+    width: 230px;
+    height: auto;
+    text-transform: capitalize;
+    white-space:nowrap;
+  }
+  .grid-item:hover
+  {
+    transform: translateX(3px);
+
+  }
+#type
+{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 35%;
+  left: 50%;
+  font-size: 20px;
+  text-decoration: underline;
+
+}
+#moves
+{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  height auto;
+  top: 50%;
+  left: 50%;
+  font-size: 15px;
+  box-sizing: border-box;
+  width: 800px;
+
+}
