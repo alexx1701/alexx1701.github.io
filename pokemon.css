@@ -21,6 +21,7 @@ button{
 button:hover {background-color: #d4cfcf}
 
 .container {
+  margin-top: 100px;
   position: relative;
   text-align: center;
   color: black;
