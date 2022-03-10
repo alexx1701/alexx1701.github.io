@@ -1,6 +1,7 @@
 # Pokemon "Pokedex" API
 
-<div id="top"></div>
+<div id="top"></div><img width="1126" alt="Screen Shot 2022-03-08 at 10 42 34 PM" src="https://user-images.githubusercontent.com/92756383/157733724-9442fb89-5cea-45db-934b-bd5284c40723.png">
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -14,7 +15,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![pokemon](https://user-images.githubusercontent.com/92756383/157733543-008aee0d-53ee-4e8d-a59e-be6078534d6a.png)
 
 This is a fun project where you can search for any Pokemon by name or number and receive some information about them! The sprite animation and submit sound effect add a lot of detail to this cute and simple program.
 
