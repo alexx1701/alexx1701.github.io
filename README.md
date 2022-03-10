@@ -15,17 +15,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+This is a fun project where you can search for any Pokemon by name or number and receive some information about them! The sprite animation and submit sound effect add a lot of detail to this cute and simple program.
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [HTML]
+* [CSS/ SASS]
+* [JavaScript]
 
 
 
@@ -33,9 +29,9 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Alexandra Christopher - [My Portfolio Site](https://alexmchris.com/projects) - alexandra.christopher@outlook.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Live Link: [https://github.com/github_username/repo_name](https://github.com/alexx1701.github.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
