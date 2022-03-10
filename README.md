@@ -10,10 +10,11 @@
 -->
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![pokemon](https://user-images.githubusercontent.com/92756383/157733543-008aee0d-53ee-4e8d-a59e-be6078534d6a.png)
 
 This is a fun project where you can search for any Pokemon by name or number and receive some information about them! The sprite animation and submit sound effect add a lot of detail to this cute and simple program.
 
