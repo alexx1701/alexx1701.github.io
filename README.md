@@ -32,7 +32,7 @@ This is a fun project where you can search for any Pokemon by name or number and
 
 Alexandra Christopher - [My Portfolio Site](https://alexmchris.com/) - alexandra.christopher@outlook.com
 
-Live Link: [https://github.com/github_username/repo_name](https://github.com/alexx1701.github.io)
+Live Link: [Click here for the live version!](https://alexx1701.github.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
