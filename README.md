@@ -20,9 +20,9 @@ This is a fun project where you can search for any Pokemon by name or number and
 
 ### Built With
 
-* [HTML]
-* [CSS/ SASS]
-* [JavaScript]
+* HTML
+* CSS/ SASS
+* JavaScript
 
 
 
